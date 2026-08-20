@@ -1,5 +1,9 @@
 # Assignment
 
+<!-- repository-summary -->
+A Jenkins CI/CD practice repository for declarative pipelines, Git branches, builds, tests, and post-build actions.
+<!-- /repository-summary -->
+
 A small Jenkins CI/CD practice repository used to experiment with declarative
 pipelines and Git branching/merging workflows.
 
