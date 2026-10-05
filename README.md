@@ -1,5 +1,22 @@
 # Assignment
 
+<!-- project-guide:start -->
+## Project guide
+
+[Project architecture](PROJECT_ARCHITECTURE.md) · [Interview questions and answers](INTERVIEW_QA.md)
+
+Use the architecture document for the component diagram, implementation boundaries, and verification entry points. The interview guide includes source-backed answers and project walkthroughs.
+
+### Implementation map
+
+| Component | Responsibility |
+| --- | --- |
+| [`README.md`](README.md) | Project explanations or operating notes |
+
+Setup and examples are described in the existing project notes below. Consult the component-specific manifests before assuming a single launch command.
+
+<!-- project-guide:end -->
+
 <!-- repository-summary -->
 A Jenkins CI/CD practice repository for declarative pipelines, Git branches, builds, tests, and post-build actions.
 <!-- /repository-summary -->
