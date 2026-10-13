@@ -1,5 +1,12 @@
 # Assignment
 
+## Overview
+
+A Jenkins CI/CD practice repository for declarative pipeline syntax and Git branching. The `Jenkinsfile` defines Checkout, Build and Test stages with `post` success and failure hooks, checks out the `develop` branch, and leaves the build and test steps as placeholders. Empty text files exist only to exercise merges across several branches such as `master`, `Develop` and `feature/my-feature`.
+
+- **Built with:** Jenkins, Git
+- **Scope:** Practice sandbox, not an application; build and test steps are placeholders.
+
 <!-- project-guide:start -->
 ## Project guide
 
